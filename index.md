@@ -7,7 +7,7 @@ description: >-
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
-show_call_box: true
+show_call_box: false
 ---
 
 # Serif - A Jekyll Business Theme.
