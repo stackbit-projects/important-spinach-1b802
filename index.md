@@ -6,7 +6,7 @@ description: >-
   is fully responsive, blazing fast and artfully illustrated.
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
